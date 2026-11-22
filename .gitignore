@@ -1,0 +1,9 @@
+clip.mp4
+yt-dlp
+*.part
+*.log
+out/
+captions.srt
+bmg-part5.webm
+bluebox-part6.webm
+clip-quiet-original.mp4
